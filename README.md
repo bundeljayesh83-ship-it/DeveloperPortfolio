@@ -27,7 +27,7 @@ The project demonstrates my hands-on experience with development tools, automati
 ## 🌐 Live Portfolio
 
 **Visit my website:**
-[Download My Resume (PDF)](my_resume_v1.pdf)
+[Download My Resume (PDF)](Portfolio/my_resume_v1.pdf)
 ## 🚀 My Projects & Work
 
 ### 1. VOID – Local AI Assistant
