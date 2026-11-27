@@ -1,0 +1,56 @@
+total 10417
+drwxr-xr-x 1 JAYESH 197121       0 Nov 26 21:28 ./
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:39 ../
+-rw-r--r-- 1 JAYESH 197121    1639 Nov 26 21:57 .bash_history
+drwxr-xr-x 1 JAYESH 197121       0 Nov 22 00:45 .copilot/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 23 13:09 .local/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 22 17:14 .vscode/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 22 00:29 .vscode-shared/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:36 AppData/
+lrwxrwxrwx 1 JAYESH 197121      30 Nov 21 21:36 Application Data -> /c/Users/bunde/AppData/Roaming/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:37 Contacts/
+lrwxrwxrwx 1 JAYESH 197121      58 Nov 21 21:36 Cookies -> /c/Users/bunde/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 26 22:04 Desktop/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 26 21:33 DeveloperPortfolio/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:37 Documents/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 26 21:18 Downloads/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:37 Favorites/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:37 Links/
+lrwxrwxrwx 1 JAYESH 197121      28 Nov 21 21:36 Local Settings -> /c/Users/bunde/AppData/Local/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:37 Music/
+lrwxrwxrwx 1 JAYESH 197121      24 Nov 21 21:36 My Documents -> /c/Users/bunde/Documents/
+-rw-r--r-- 1 JAYESH 197121 6815744 Nov 27 00:03 NTUSER.DAT
+-rw-r--r-- 1 JAYESH 197121   65536 Nov 21 21:36 NTUSER.DAT{f18d5dcf-e635-11f1-806c-30a77143a823}.TM.blf
+-rw-r--r-- 1 JAYESH 197121  524288 Nov 21 21:36 NTUSER.DAT{f18d5dcf-e635-11f1-806c-30a77143a823}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 JAYESH 197121  524288 Nov 21 21:36 NTUSER.DAT{f18d5dcf-e635-11f1-806c-30a77143a823}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 JAYESH 197121      66 Nov 21 21:36 NetHood -> /c/Users/bunde/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 25 10:30 New folder/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:38 OneDrive/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 23 22:25 Pictures/
+lrwxrwxrwx 1 JAYESH 197121      66 Nov 21 21:36 PrintHood -> /c/Users/bunde/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 JAYESH 197121      55 Nov 21 21:36 Recent -> /c/Users/bunde/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:37 Saved Games/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 21:39 Searches/
+lrwxrwxrwx 1 JAYESH 197121      55 Nov 21 21:36 SendTo -> /c/Users/bunde/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 JAYESH 197121      59 Nov 21 21:36 Start Menu -> /c/Users/bunde/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 JAYESH 197121      58 Nov 21 21:36 Templates -> /c/Users/bunde/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 21 22:51 Videos/
+drwxr-xr-x 1 JAYESH 197121       0 Nov 26 21:28 backup/
+-rw-r--r-- 1 JAYESH 197121 1900544 Nov 21 21:36 ntuser.dat.LOG1
+-rw-r--r-- 1 JAYESH 197121  786432 Nov 21 21:36 ntuser.dat.LOG2
+-rw-r--r-- 1 JAYESH 197121      20 Nov 21 21:36 ntuser.ini
+drwxr-xr-x 1 JAYESH 197121       0 Nov 23 21:24 webdev/
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1996    1995    1996      16180  pty0      197609 00:07:17 /usr/bin/bash
+     1995       1    1995       3364  ?         197609 00:07:17 /usr/bin/mintty
+     2099    1996    2098      10772  pty0      197609 00:20:35 /usr/bin/head
+     2098    1996    2098      15756  pty0      197609 00:20:35 /usr/bin/ps
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  476G  120G  357G  26% /
+G:                    476G  138G  339G  29% /g
+
+TotalVisibleMemorySize FreePhysicalMemory
+---------------------- ------------------
+              15929888            9447472
+
+
