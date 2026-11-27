@@ -2,33 +2,23 @@
 Student Roll Number: 2601730050
 
 Hostname:
+HEAD
 jayeshbundel
+DESKTOP-0IKRCGJ
+8b02b00 (Update system information script and output)
 
 Current User:
-root
+JAYESH
 
 Date and Time:
-Fri Nov 20 02:15:32 AM IST 2026
+Fri Nov 27 09:45:03 IST 2026
 
 Kernel Version:
-7.0.0-43-generic
+3.6.10-5a1665c8.x86_64
 
 Memory Usage:
-               total        used        free      shared  buff/cache   available
-Mem:           4.5Gi       1.4Gi       966Mi        18Mi       2.4Gi       3.1Gi
-Swap:          3.1Gi          0B       3.1Gi
 
 Disk Usage:
-Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           926M  2.7M  924M   1% /run
-/dev/sda2        19G   12G  5.9G  67% /
-tmpfs           2.3G     0  2.3G   0% /dev/shm
-efivarfs        256K   75K  177K  30% /sys/firmware/efi/efivars
-none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
-tmpfs           2.3G  8.0K  2.3G   1% /tmp
-none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-/dev/sda1       952M  6.4M  945M   1% /boot/efi
-tmpfs           463M   96K  463M   1% /run/user/1000
-/dev/sr1        6.1G  6.1G     0 100% /run/media/kabir/Ubuntu 26.04.1 LTS amd64
-/dev/sr0        108M  108M     0 100% /run/media/kabir/CDROM
-tmpfs           463M   48K  463M   1% /run/user/0
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  476G  119G  357G  26% /
+G:                    476G  137G  340G  29% /g
