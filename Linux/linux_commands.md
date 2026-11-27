@@ -79,7 +79,34 @@ free -h
 ```bash
 ps
 ```
+## Text Processing and Networking Commands
 
+| Command | Purpose |
+|---|---|
+| `grep "word" file.txt` | Searches for a word in a file |
+| `sort file.txt` | Sorts lines alphabetically |
+| `uniq file.txt` | Removes adjacent duplicate lines |
+| `wc -l file.txt` | Counts lines in a file |
+| `ip addr` | Displays network interface information |
+| `ping google.com` | Tests network connectivity |
+| `hostname` | Displays the system hostname |
+| `curl https://example.com` | Sends an HTTP request to a website |
+
+### Example: Using Pipes
+
+```bash
+cat file.txt | sort | uniq
+```
+
+This displays sorted lines with adjacent duplicates removed.
+
+### Example: Output Redirection
+
+```bash
+echo "Hello Linux" > output.txt
+```
+
+This writes text into a file named `output.txt`.
 ## Learning Outcomes
 
 Through this practical exercise, I learned how to:
