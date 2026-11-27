@@ -72,6 +72,13 @@ A personal developer portfolio showcasing my academic work, technical skills, Li
 🌐 [Live Website](https://github.com/bundeljayesh83-ship-it/DeveloperPortfolio)
 
 ---
+## 📚 Portfolio Sections
+
+1. **Linux/** – Linux commands and system documentation.
+2. **ShellScripts/** – Bash scripts for system information and automation.
+3. **API/** – GitHub REST API and JSONPlaceholder API integration.
+4. **Portfolio/** – Resume and learning roadmap.
+
 
 ## 📁 Repository Structure
 
